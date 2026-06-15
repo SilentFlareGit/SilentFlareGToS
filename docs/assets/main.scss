@@ -1,0 +1,73 @@
+---
+---
+
+@import "minima";
+
+.sf-utility-header {
+  min-height: 0;
+  border: 0;
+}
+
+.sf-top-anchor {
+  position: absolute;
+  top: 0;
+}
+
+.page-content {
+  padding-top: 24px;
+}
+
+.sf-footer {
+  margin-top: 48px;
+  padding: 24px 0 28px;
+  border-top: 1px solid #e8e8e8;
+}
+
+.sf-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+
+.sf-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 34px;
+  padding: 6px 12px;
+  border: 1px solid #d0d7de;
+  border-radius: 8px;
+  background: #ffffff;
+  color: #0969da;
+  font: inherit;
+  line-height: 1.2;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.sf-button:hover,
+.sf-button:focus {
+  border-color: #0969da;
+  text-decoration: none;
+}
+
+.sf-footer-title {
+  margin-bottom: 6px;
+}
+
+.sf-footer-note {
+  margin-bottom: 6px;
+  color: #57606a;
+  font-size: 0.92rem;
+}
+
+@media screen and (max-width: 600px) {
+  .sf-actions {
+    gap: 6px;
+  }
+
+  .sf-button {
+    flex: 1 1 auto;
+  }
+}
