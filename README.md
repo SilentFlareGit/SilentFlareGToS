@@ -1,6 +1,8 @@
 # SilentFlareGTOS
 
-Markdown + GitHub Pages policy library for the SilentFlare Global Terms of Service.
+Markdown + GitHub Pages policy library for the SilentFlare personal blog Global Terms of Service.
+
+This repository is for a personal blog / personal web presence. It is not a VPS, hosting, payment, SaaS, or commercial infrastructure service agreement unless SilentFlare publishes a separate written product-specific agreement.
 
 ## Structure
 
@@ -48,11 +50,12 @@ After deployment, the site entry is the Pages URL for this repository. Each poli
 
 - Write policy text in Markdown, not handwritten HTML.
 - Keep one policy category per file.
-- Use numbered clauses for terms that may need review or citation.
+- Keep the documents suitable for a personal blog, not a commercial hosting platform.
 - Keep the restricted-region list in `docs/terms/restricted-regions.md` only.
-- Keep KYC levels and verification rules in `docs/terms/kyc.md` only.
+- Keep the limited KYC1 rule in `docs/terms/kyc.md` only.
+- Do not add KYC2, KYC3, proof-of-address, source-of-funds, or commercial onboarding unless the site changes into a commercial service.
 - Update `docs/index.md` when adding, removing, or renaming policy files.
 
 ## Legal review notice
 
-This repository is an operational policy draft. It is not legal advice. Review it with a qualified legal professional before commercial use, especially for German law, European Union law, GDPR, consumer protection, sanctions, export control, and hosting-provider compliance.
+This repository is an operational policy draft for a personal blog. It is not legal advice. Review it with a qualified legal professional before relying on it for commercial use, identity verification, restricted-region enforcement, GDPR compliance, or German/EU internet-law compliance.
