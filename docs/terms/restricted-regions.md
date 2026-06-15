@@ -12,7 +12,7 @@ permalink: /terms/restricted-regions/
 
 1.2 These restrictions are designed to help SilentFlare comply with applicable local rules, German and European Union obligations, upstream provider rules, payment processor rules, sanctions and export control obligations, and operational risk controls.
 
-1.3 These restrictions are not a statement about any person, nationality, ethnicity, language, or culture. They are an operational compliance measure.
+1.3 These restrictions are operational compliance measures. They are not a statement about any nationality, ethnicity, language, culture, or individual person.
 
 ## 2. Restricted countries and regions
 
