@@ -1,0 +1,12 @@
+title: SilentFlare GToS
+description: Global Terms of Service and policy library for SilentFlare services.
+theme: minima
+markdown: kramdown
+permalink: pretty
+plugins: []
+
+header_pages:
+  - index.md
+
+minima:
+  skin: auto
