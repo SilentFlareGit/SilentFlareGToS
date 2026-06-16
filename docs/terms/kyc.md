@@ -4,8 +4,6 @@ title: Limited Identity Verification and KYC1
 permalink: /terms/kyc/
 ---
 
-# Limited Identity Verification and KYC1
-
 ## 1. Purpose
 
 1.1 SilentFlare is a personal blog. It does not normally require identity verification for ordinary reading, casual browsing, RSS reading, or lawful personal use.
