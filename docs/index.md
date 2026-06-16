@@ -8,4 +8,4 @@ permalink: /
 {% include_relative GToS.md %}
 {% endcapture %}
 
-{{ gtos_markdown | markdownify }}
+{{ gtos_markdown | remove_first: '# SilentFlareGToS' | markdownify }}
