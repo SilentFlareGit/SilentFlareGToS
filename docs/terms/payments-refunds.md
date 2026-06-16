@@ -4,8 +4,6 @@ title: No Paid Service, Donations, and Refunds
 permalink: /terms/payments-refunds/
 ---
 
-# No Paid Service, Donations, and Refunds
-
 ## 1. No paid service by default
 
 1.1 The SilentFlare blog is a personal blog. Ordinary reading, browsing, quoting, and lawful personal access are not sold as a paid service under these terms.
