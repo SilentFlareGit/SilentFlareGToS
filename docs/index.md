@@ -4,8 +4,6 @@ title: SilentFlareGToS
 permalink: /
 ---
 
-# SilentFlareGToS
-
 **SilentFlareGToS** means **SilentFlare General Terms of Service**.
 
 Effective date: 2026-06-15  
