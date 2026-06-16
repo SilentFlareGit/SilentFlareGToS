@@ -4,8 +4,6 @@ title: Data Protection, Privacy, and Retention
 permalink: /terms/data-privacy/
 ---
 
-# Data Protection, Privacy, and Retention
-
 ## 1. Scope
 
 1.1 This policy explains operational privacy and data handling rules for the SilentFlare personal blog.
