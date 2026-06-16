@@ -10,10 +10,7 @@ permalink: /
 **Project name:** SilentFlare  
 **Operator:** SilentFlare / SilentFlareGit  
 **Website:** https://silentflare.com  
-**General contact:** contact@silentflare.com  
-**Abuse contact:** abuse@silentflare.com  
-**Privacy contact:** privacy@silentflare.com  
-**Security contact:** security@silentflare.com  
+**Contact:** contact@silentflare.com  
 **Document status:** personal blog policy draft, subject to legal review
 
 This document governs the SilentFlare personal blog and related personal web resources. It is written for a personal blog, personal web presence, public content, comments, feeds, repositories, contact channels, and anti-abuse controls. It is not a VPS, hosting, cloud, SaaS, payment, marketplace, or commercial infrastructure service agreement unless SilentFlare publishes separate written service-specific terms.
@@ -148,7 +145,7 @@ This document governs the SilentFlare personal blog and related personal web res
 
 ## 8. Data protection, privacy, and retention
 
-8.1 Data controller: SilentFlare. Privacy requests should be sent to privacy@silentflare.com or another official privacy contact shown on the SilentFlare website or repository.
+8.1 Data controller: SilentFlare. Privacy and data-rights requests should be sent to contact@silentflare.com or another official contact channel shown on the SilentFlare website or repository.
 
 8.2 SilentFlare may process access logs, security logs, comments, contact messages, feed requests, crawler traffic, abuse reports, KYC1 review data, donation metadata where applicable, and technical metadata connected to the blog.
 
@@ -232,17 +229,19 @@ This document governs the SilentFlare personal blog and related personal web res
 
 ## 13. Contact rules
 
-13.1 General blog, correction, attribution, comment, link, crawler, or technical questions should be sent to contact@silentflare.com or the designated contact channel shown on the SilentFlare website or repository.
+13.1 Legal notices, abuse reports, privacy requests, security reports, crawler or block appeals, KYC1-related questions, correction requests, attribution questions, comment issues, link issues, and technical questions should be sent to contact@silentflare.com or another official contact channel shown on the SilentFlare website or repository.
 
-13.2 Abuse reports should be sent to abuse@silentflare.com and should include the affected URL, IP address, domain, timestamp with timezone, logs, headers, screenshots, comment identifier, crawler user agent, transaction identifier if any, or other evidence.
+13.2 Requests should clearly label their type, such as legal notice, abuse report, privacy request, security report, crawler appeal, block appeal, KYC1 review, correction request, or technical question.
 
-13.3 Security reports should be sent to security@silentflare.com and should include reproduction steps, impact, affected endpoint, proof of concept, and suggested remediation. Security researchers should avoid destructive testing, private data access, persistence, lateral movement, social engineering, spam, service degradation, or public disclosure before remediation.
+13.3 Requests should include relevant URLs, dates, timestamps with timezone, screenshots if useful, logs if safe to share, IP addresses where relevant, user agents where relevant, affected domains or accounts where relevant, and a clear description of the issue.
 
-13.4 Privacy requests should be sent to privacy@silentflare.com and should identify the relevant data and the specific right being exercised, such as access, correction, deletion, restriction, objection, or export.
+13.4 Security researchers should avoid destructive testing, private data access, persistence, lateral movement, social engineering, spam, service degradation, or public disclosure before remediation.
 
-13.5 Users should not include passwords, private keys, seed phrases, full payment card numbers, unnecessary identity documents, or unnecessary sensitive data in ordinary messages.
+13.5 Privacy and data-rights requests should identify the relevant data and the specific right being exercised, such as access, correction, deletion, restriction, objection, or export.
 
-13.6 Emergency reports involving imminent harm, active compromise, severe abuse, child safety, terrorism, credible threats, or major security incidents should be clearly marked as urgent and include immediately actionable evidence.
+13.6 Users should not include passwords, private keys, seed phrases, full payment card numbers, unnecessary identity documents, or unnecessary sensitive data in ordinary messages.
+
+13.7 Emergency reports involving imminent harm, active compromise, severe abuse, child safety, terrorism, credible threats, or major security incidents should be clearly marked as urgent and include immediately actionable evidence.
 
 ## 14. Legal review notice
 
