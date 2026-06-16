@@ -4,8 +4,6 @@ title: Controlled Access Policy
 permalink: /terms/restricted-regions/
 ---
 
-# Controlled Access Policy
-
 ## 1. Purpose and scope
 
 1.1 This Controlled Access Policy explains when SilentFlare may limit, challenge, review, or block access to the personal blog, comment features, feeds, archives, static files, API-like endpoints, crawler access, or other blog-related resources.
