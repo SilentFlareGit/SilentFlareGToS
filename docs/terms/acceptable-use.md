@@ -4,8 +4,6 @@ title: Acceptable Use Policy
 permalink: /terms/acceptable-use/
 ---
 
-# Acceptable Use Policy
-
 ## 1. General rule
 
 1.1 The user may access the SilentFlare blog only for lawful, authorized, non-abusive, and policy-compliant purposes.
