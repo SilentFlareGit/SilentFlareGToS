@@ -1,462 +1,247 @@
-# General Terms of Service
+# SilentFlareGToS
 
-**Effective Date:** June 14, 2026
-**Project Name:** SilentFlare
-**Operator:** SilentFlare / SilentFlareGit
-**Website:** SilentFlare.com
-**Contact:** [contact@silentflare.com](mailto:contact@silentflare.com)
+**SilentFlareGToS** means **SilentFlare General Terms of Service**.
 
-These General Terms of Service (“Terms”) govern your access to and use of SilentFlare, including its websites, applications, APIs, dashboards, content, experimental features, automation tools, administrative interfaces, and related services (collectively, the “Service”).
+**Effective date:** 2026-06-15  
+**Project name:** SilentFlare  
+**Operator:** SilentFlare / SilentFlareGit  
+**Website:** https://silentflare.com  
+**General contact:** contact@silentflare.com  
+**Abuse contact:** abuse@silentflare.com  
+**Privacy contact:** privacy@silentflare.com  
+**Security contact:** security@silentflare.com  
+**Document status:** personal blog policy draft, subject to legal review
 
-By accessing or using the Service, you agree to these Terms. If you do not agree to these Terms, you must not access or use the Service.
+This document governs the SilentFlare personal blog and related personal web resources. It is written for a personal blog, personal web presence, public content, comments, feeds, repositories, contact channels, and anti-abuse controls. It is not a VPS, hosting, cloud, SaaS, payment, marketplace, or commercial infrastructure service agreement unless SilentFlare publishes separate written service-specific terms.
 
-## 1. Nature of the Service
+## 1. Scope, acceptance, and interpretation
 
-SilentFlare is a personal and experimental technology project that may include web publishing, software tools, APIs, blog content, automation features, dashboards, administrative interfaces, and other related services.
+1.1 These terms govern access to and use of SilentFlare, including personal websites, blog pages, static files, RSS or Atom feeds, public repositories, comment areas, contact channels, anti-abuse systems, experimental pages, and related personal web resources.
 
-The Service may change over time. Features may be added, modified, suspended, limited, or removed without prior notice.
+1.2 The terms apply to visitors, readers, subscribers, commenters, contact-form users, researchers, search engines, crawlers, bots, mirrors, archive tools, automated clients, and anyone accessing or attempting to access SilentFlare resources.
 
-The Service may include experimental, unfinished, unstable, or testing-oriented features. Such features may contain bugs, interruptions, unexpected behavior, data loss risks, or security limitations. You use experimental features at your own risk.
+1.3 By accessing, reading, browsing, commenting on, subscribing to, scraping, indexing, mirroring, archiving, contacting, or otherwise using SilentFlare resources, the user agrees to these terms to the extent permitted by applicable law.
 
-## 2. Eligibility
+1.4 If the user does not agree, the user must stop accessing SilentFlare resources and must not use comment, contact, feed, API-like, automation, scraping, or mirroring functions.
 
-You may use the Service only if you are legally able to enter into these Terms under the laws applicable to you.
+1.5 English is the controlling language of this document unless SilentFlare publishes an expressly controlling localized version. Headings are for convenience only.
 
-If you access or use the Service on behalf of an organization, company, institution, or other legal entity, you represent and warrant that you have the authority to bind that entity to these Terms.
+1.6 If a clause is unenforceable, the remaining clauses continue to apply to the maximum extent permitted by law.
 
-You must not use the Service if you are prohibited from doing so under applicable law, sanctions rules, export control rules, court orders, regulatory restrictions, or these Terms.
+## 2. Parties and blog nature
 
-## 3. Hosting Location, Applicable Compliance Standards and Legal Obligations
+2.1 "SilentFlare", "we", "us", or "our" means the operator of the SilentFlare personal blog and related personal web resources.
 
-The Service may be hosted, operated, routed, processed, or made available through infrastructure located in the Federal Republic of Germany.
+2.2 "User", "you", or "your" means any individual, organization, crawler operator, bot operator, archive operator, mirror operator, or other person or entity that accesses or uses SilentFlare resources.
 
-By accessing or using the Service, you agree to comply with all applicable laws and regulations of:
+2.3 If you access SilentFlare resources on behalf of an organization, search engine, crawler, research group, mirror, archive, or other entity, you represent that you have authority to do so and that the entity will comply with these terms.
 
-* the Federal Republic of Germany;
-* the European Union;
-* the jurisdiction where you are located, resident, incorporated, or ordinarily operating;
-* any jurisdiction whose laws apply to your access to or use of the Service.
+2.4 SilentFlare may publish articles, notes, project pages, documentation, personal opinions, code snippets, media references, feeds, links, comments, contact channels, and anti-abuse notices.
 
-The Service is designed to support compliance with applicable German and European Union legal, regulatory, sanctions, cybersecurity, data protection, platform integrity, and internet governance requirements.
+2.5 SilentFlare may be experimental, self-hosted, static, partially automated, or dependent on third-party infrastructure. Content, routes, links, feeds, comments, access rules, and technical behavior may change over time.
 
-You acknowledge that access to the Service may be restricted, reviewed, suspended, or denied where the Operator reasonably determines that such access may create legal, regulatory, compliance, security, abuse, operational, sanctions, data protection, or reputational risk.
+## 3. Germany, European Union, and local-law compliance
 
-## 4. Restricted Countries, Territories and Regions
+3.1 SilentFlare resources may be hosted on servers, networks, DNS, CDN, repository, or infrastructure located in Germany or the European Union.
 
-For compliance, security, legal, regulatory, platform integrity, sanctions, and local internet governance reasons, the Operator may restrict, block, suspend, terminate, or require additional verification for access from certain countries, territories, regions, networks, IP ranges, autonomous systems, data centers, proxy networks, VPN services, or anonymization services.
+3.2 Users must comply with German law, European Union law, applicable local law, hosting provider policies, network abuse rules, sanctions rules, export-control rules, and lawful requests from competent authorities.
 
-Access to the Service is prohibited, restricted, or subject to enhanced review from the following countries, territories, regions, and political or regional groupings, listed alphabetically by English full designation:
+3.3 A user may not claim that local law permits conduct that is illegal, restricted, abusive, or unsafe under German law, European Union law, provider rules, or these terms.
 
-* Afghanistan;
-* the continent of Africa, including all countries and territories located within Africa;
-* the Commonwealth of Independent States;
-* the Democratic People’s Republic of Korea;
-* the Federal Democratic Republic of Nepal;
-* the Hong Kong Special Administrative Region of the People’s Republic of China;
-* the Islamic Republic of Iran;
-* the Islamic Republic of Pakistan;
-* the Kingdom of Thailand;
-* the Lao People’s Democratic Republic;
-* the Macao Special Administrative Region of the People’s Republic of China;
-* the People’s Republic of China;
-* the Republic of Belarus;
-* the Republic of Cuba;
-* the Republic of India;
-* the Republic of Iraq;
-* the Republic of the Union of Myanmar;
-* the Russian Federation;
-* the Socialist Republic of Viet Nam.
+3.4 Users are responsible for determining whether SilentFlare resources may legally be accessed, read, indexed, quoted, archived, mirrored, commented on, scraped, or shared in their jurisdiction.
 
-The Operator may use technical and administrative measures to detect, restrict, or review access from restricted countries, territories, regions, and networks. These measures may include, but are not limited to:
+3.5 The user must not use SilentFlare resources for activity prohibited by German or European Union law, including unlawful hate speech, extremist content, terrorist content, child sexual abuse material, unlawful harassment, fraud, malware, unauthorized access, identity theft, phishing, copyright infringement, sanctions evasion, or illegal financial activity.
 
-* IP geolocation;
-* network filtering;
-* ASN filtering;
-* VPN, proxy, Tor, hosting-provider, or anonymization detection;
-* account review;
-* risk scoring;
-* rate limiting;
-* access logging;
-* identity verification;
-* manual compliance review.
+3.6 The user must not use SilentFlare resources to evade blocking, filtering, monitoring, licensing, age restriction, sanctions, export controls, court orders, administrative orders, or provider enforcement.
 
-Access restrictions are intended to support compliance with applicable German, European Union, sanctions, cybersecurity, data protection, platform integrity, and local internet regulatory requirements.
+## 4. Controlled access policy
 
-The Operator does not guarantee that access will be available from any particular jurisdiction.
+4.1 SilentFlare may limit, challenge, review, rate-limit, or block access to personal blog pages, comment features, feeds, archives, static files, API-like endpoints, crawler access, or related resources for legal compliance, cybersecurity, anti-abuse, anti-scraping, anti-spam, anti-crawler-abuse, network protection, sanctions compliance, provider compliance, and operational-risk management.
 
-## 5. Identity Verification for Restricted Users
+4.2 Controlled access is based on objective legal, security, anti-abuse, crawler-control, provider, sanctions, network, and operational-risk factors. It is not based on race, ethnicity, colour, nationality, national origin, language, religion, political opinion, gender, sexual orientation, disability, social origin, or any other protected personal characteristic.
 
-If a user located in, connected to, ordinarily resident in, incorporated in, operating from, or otherwise associated with a restricted country, territory, region, or network attempts to access the Service, the user may be required to complete enhanced identity verification before access is granted, restored, or continued.
+4.3 A country, territory, jurisdiction, network region, IP range, ASN, hosting provider, proxy provider, VPN exit node, Tor exit node, crawler source, automated client, referrer source, or traffic source may be placed under controlled access when one or more objective factors apply, including unclear or burdensome local internet rules, repeated abuse, scraping, spam, credential abuse, DDoS traffic, vulnerability scanning, fake crawler identity, proxy or anonymization abuse, sanctions or export-control risk, provider requirements, or disproportionate burden for a personal non-commercial blog operator.
 
-The minimum required verification level for restricted users is **KYC Level 1**.
+4.4 Controlled access should be proportionate where reasonably possible. SilentFlare may use lighter measures such as rate limits, CAPTCHA, proof-of-work challenge, robots restrictions, feed restrictions, temporary blocking, comment moderation, or crawler identification before using stronger measures such as long-term blocking or KYC1 review.
 
-### 5.1 KYC Level 1
+4.5 The following jurisdictions or territories may be subject to controlled access, enhanced anti-abuse controls, manual review, rate limits, blocking, or KYC1 review. The list is based on legal uncertainty, local internet-law compliance risk, sanctions or provider requirements, crawler-abuse history, spam risk, infrastructure-abuse risk, or operational constraints:
 
-KYC Level 1 may require the user to submit one or more of the following:
+- Afghanistan
+- Belarus
+- China, People's Republic of
+- Cuba
+- Democratic People's Republic of Korea
+- Hong Kong
+- India
+- Iran
+- Iraq
+- Laos
+- Macau
+- Myanmar
+- Nepal
+- Pakistan
+- Russian Federation
+- Thailand
+- Vietnam
 
-* passport;
-* national identity document;
-* driver’s license;
-* residence permit;
-* facial verification;
-* liveness verification.
+4.6 Additional controlled network sources may include specific networks, ASNs, hosting providers, proxy sources, data-centre sources, VPN exits, Tor exits, crawler sources, automated clients, spam sources, or other traffic sources that meet the objective criteria in this section. Broad regional labels must not be used as a judgment about any protected group or individual.
 
-KYC Level 1 is intended to verify basic identity, document authenticity, and whether the user may lawfully access the Service.
+4.7 SilentFlare may add, remove, merge, rename, narrow, or reclassify controlled-access entries when required by law, provider rules, sanctions changes, abuse patterns, crawler behaviour, security risk, local internet regulations, or operational necessity.
 
-### 5.2 KYC Level 2
+4.8 Geolocation and risk data may be imperfect. A visitor, crawler operator, researcher, or other affected party who is incorrectly blocked may contact SilentFlare and request manual review.
 
-Restricted users may also choose or be required to complete **KYC Level 2**.
+4.9 The user must not evade controlled-access controls using VPNs, proxies, false crawler identities, misleading user agents, borrowed documents, synthetic identities, mirrors, traffic relays, remote desktops, or automated rotation.
 
-KYC Level 2 may require proof of address, including but not limited to:
+## 5. Limited identity verification and KYC1
 
-* utility bill;
-* bank statement;
-* residence certificate;
-* tax document;
-* government-issued correspondence;
-* lease document;
-* official address confirmation;
-* similar proof of residential address.
+5.1 SilentFlare does not normally require identity verification for ordinary reading, casual browsing, RSS reading, or lawful personal use.
 
-KYC Level 2 is intended to establish residency, jurisdictional status, and higher account trust.
+5.2 SilentFlare may require limited KYC1 only when reasonably necessary to prevent malicious crawling, automated abuse, spam, scraping at abusive scale, account or comment abuse, ban evasion, controlled-access circumvention, unlawful access, sanctions risk, or violation of applicable regional internet rules.
 
-### 5.3 KYC Level 3
+5.3 KYC1 may require one valid government-issued identity document, such as a passport, national identity card, driving licence, residence permit, or comparable document, or a provider-side verification result where available.
 
-Restricted users may also choose or be required to complete **KYC Level 3**.
+5.4 KYC1 does not normally require face verification, liveness verification, biometric templates, proof of address, source-of-funds review, source-of-wealth review, company ownership review, or enhanced commercial due diligence for ordinary personal blog access.
 
-KYC Level 3 may require proof of income, proof of funds, or enhanced financial or compliance documentation, including but not limited to:
+5.5 SilentFlare will not request biometric verification for ordinary blog access unless a separate legal or provider requirement applies, or unless severe forged-document, impersonation, or repeated circumvention risk cannot reasonably be handled by a less intrusive method. SilentFlare should avoid storing biometric templates.
 
-* employment record;
-* salary statement;
-* tax filing;
-* bank statement;
-* source-of-funds document;
-* source-of-wealth document;
-* financial statement;
-* business ownership document;
-* other supporting evidence reasonably required for compliance review.
+5.6 Ordinary visitors should not submit identity documents unless SilentFlare specifically requests KYC1 through an official contact or review channel.
 
-KYC Level 3 is intended to support enhanced trust assessment, fraud prevention, sanctions screening, platform integrity, and compliance review.
+5.7 Completion of KYC1 does not guarantee access. SilentFlare may deny, block, rate-limit, restrict, or terminate access if the objective risk remains unacceptable or if the visitor provides false, misleading, incomplete, or unverifiable information.
 
-### 5.4 No Guaranteed Access After Verification
+## 6. Acceptable use
 
-Completing KYC does not guarantee access to the Service.
+6.1 The user may access SilentFlare resources only for lawful, authorized, non-abusive, and policy-compliant purposes.
 
-The Operator may still deny, restrict, suspend, or terminate access where the Operator determines that access may create legal, regulatory, compliance, sanctions, security, abuse, operational, or reputational risk.
+6.2 The user is responsible for all comments, messages, crawler traffic, scripts, automation, user agents, mirrors, archives, quotations, reposts, and systems used to access SilentFlare resources.
 
-### 5.5 False Information and Circumvention
+6.3 The user must not post or send spam, threats, harassment, doxing, impersonation, defamation, illegal content, malware links, phishing links, unlawful extremist content, sexual content involving minors, or personal data published without lawful basis.
 
-You must not provide false, misleading, forged, altered, stolen, or inaccurate identity information.
+6.4 The user must not use SilentFlare resources for fraud, scams, phishing, identity theft, credential theft, malware, botnets, ransomware, unauthorized access, card testing, money laundering, sanctions evasion, terrorist content, child sexual abuse material, trafficking, extortion, illegal gambling, unlawful harassment, copyright infringement, or knowingly assisting such activity.
 
-You must not attempt to bypass geographic restrictions, identity verification, sanctions controls, access controls, rate limits, risk controls, or compliance screening through:
+6.5 Crawlers must identify themselves truthfully, use a stable user agent, provide a reachable contact where reasonable, respect robots instructions where published, and keep request rates reasonable.
 
-* VPNs;
-* proxies;
-* Tor;
-* anonymization networks;
-* false documents;
-* false identity information;
-* forged proof of address;
-* forged proof of income;
-* account sharing;
-* identity misrepresentation;
-* location misrepresentation;
-* residency misrepresentation;
-* automated abuse;
-* any other circumvention method.
+6.6 The user must not scrape at abusive scale, bypass rate limits, ignore blocks, rotate IP addresses to evade limits, spoof search-engine identity, collect personal data unlawfully, or build mirrors that create legal, privacy, copyright, or operational risk.
 
-Violation of this section may result in immediate denial, suspension, termination, reporting, or other appropriate action.
+6.7 Security research is allowed only if it is non-destructive, limited, authorized where required, does not access private data, does not degrade service, and is promptly reported through the appropriate contact channel.
 
-## 6. Accounts and Security
+6.8 Unless a page states otherwise, SilentFlare content is provided for reading and ordinary fair quotation. Copying, reposting, training, scraping, mirroring, translating, or commercial reuse may require permission depending on applicable law and the content involved.
 
-Some parts of the Service may require an account, login credentials, API keys, access tokens, session cookies, passwords, or other access controls.
+6.9 Users must preserve attribution when quoting SilentFlare content and must not misrepresent context, authorship, date, or meaning.
 
-You are responsible for:
+## 7. Accounts, comments, and credentials
 
-* keeping your credentials secure;
-* maintaining the confidentiality of your account;
-* all activity that occurs under your account, credentials, API keys, or access tokens;
-* promptly reporting unauthorized access or suspected security incidents.
+7.1 SilentFlare may not require an account for ordinary reading.
 
-You must not:
+7.2 If SilentFlare offers comments, subscriptions, contact forms, feeds, dashboards, repository collaboration, or other interactive functions, the user must provide accurate, current, complete, and non-misleading information.
 
-* share your credentials with unauthorized persons;
-* use another person’s account without permission;
-* bypass authentication or authorization controls;
-* interfere with rate limits or access limits;
-* reverse engineer protected systems without permission;
-* exploit vulnerabilities;
-* attack, scan, overload, or disrupt the Service.
+7.3 Users are responsible for comments, display names, avatars, links, metadata, contact details, and messages submitted through SilentFlare resources.
 
-The Operator may suspend, rotate, revoke, or disable credentials, sessions, API keys, or access tokens at any time where security, abuse prevention, or compliance requires it.
+7.4 Users must not impersonate SilentFlare, staff, other users, public officials, companies, projects, crawlers, researchers, authorities, or third parties.
 
-## 7. Acceptable Use
+7.5 If any login, comment account, feed token, API key, repository token, access cookie, or contact-channel credential is issued, the user must keep it secure and must not share it except where SilentFlare expressly permits it.
 
-You agree not to use the Service to:
+7.6 SilentFlare may refuse registration, reserve names, reclaim names, moderate comments, remove content, require KYC1, revoke tokens, or close access that is misleading, abusive, infringing, high-risk, inactive, automated, or created to evade enforcement.
 
-* violate any applicable law or regulation;
-* violate German law or European Union law;
-* violate sanctions, export control, cybersecurity, privacy, intellectual property, or internet governance rules;
-* infringe the rights of others;
-* upload, transmit, or distribute malware, harmful code, exploit code, phishing content, or abusive content;
-* attack, disrupt, overload, scan, scrape, or reverse engineer the Service without permission;
-* abuse APIs, automation systems, infrastructure resources, or rate limits;
-* impersonate another person or misrepresent your identity, location, residency, or authority;
-* use the Service for spam, phishing, fraud, harassment, doxxing, abuse, or other harmful activity;
-* attempt unauthorized access to systems, accounts, networks, databases, or administrative interfaces;
-* use the Service to evade sanctions, legal restrictions, platform controls, compliance controls, or law enforcement;
-* collect or process personal data unlawfully;
-* publish content that is illegal, severely harmful, or clearly abusive;
-* interfere with the normal operation, security, availability, or integrity of the Service.
+## 8. Data protection, privacy, and retention
 
-The Operator may restrict, suspend, terminate, or report access if misuse is detected or reasonably suspected.
+8.1 Data controller: SilentFlare. Privacy requests should be sent to privacy@silentflare.com or another official privacy contact shown on the SilentFlare website or repository.
 
-## 8. User Content
+8.2 SilentFlare may process access logs, security logs, comments, contact messages, feed requests, crawler traffic, abuse reports, KYC1 review data, donation metadata where applicable, and technical metadata connected to the blog.
 
-If the Service allows you to submit, upload, publish, generate, transmit, or store content, you remain responsible for that content.
+8.3 Data categories may include IP address, timestamp, requested URL, referrer, user agent, HTTP headers, language signals, device or browser metadata, ASN, approximate geolocation, error logs, display name, email address, website URL, message content, moderation status, spam score, crawler identity, request rate, allowlist status, transaction metadata, and manual review notes.
 
-You represent and warrant that:
+8.4 SilentFlare may process data to operate the blog, deliver pages, maintain security, moderate comments, respond to messages, prevent spam, detect crawler abuse, investigate incidents, comply with law, enforce terms, and protect users and third parties.
 
-* you have the necessary rights to submit such content;
-* your content does not violate any law, regulation, third-party right, or these Terms;
-* your content does not contain malware, harmful code, or illegal material;
-* your content does not create security, privacy, intellectual property, compliance, or reputational risk for the Service.
+8.5 Depending on context, processing may rely on legitimate interests, contract or pre-contract steps where applicable, legal obligation, consent where required, or another lawful basis under applicable law.
 
-By submitting content to the Service, you grant the Operator a limited, non-exclusive, worldwide, royalty-free license to host, store, display, process, transmit, reproduce, and otherwise use that content only as necessary to operate, provide, maintain, protect, debug, and improve the Service.
+8.6 SilentFlare may share data with hosting providers, DNS providers, CDN providers, repository providers, email providers, comment providers, analytics providers, security providers, anti-abuse providers, identity verification providers for KYC1, payment providers for donations, legal advisors, and support vendors where necessary.
 
-You retain ownership of your content, subject to the rights granted in these Terms.
+8.7 Data may be processed in countries where SilentFlare, its providers, or its infrastructure operate. Where legally required, SilentFlare will assess and use appropriate transfer mechanisms for transfers outside the European Economic Area.
 
-The Operator may remove, restrict, disable, or review content where the Operator reasonably believes that such content violates these Terms, applicable law, platform integrity standards, or third-party rights.
+8.8 Ordinary access logs are usually retained for 30 to 180 days unless security, abuse, provider, or legal needs require longer retention. Security logs, abuse records, block records, enforcement records, and dispute records may be retained for up to 24 months or longer where necessary for legal compliance, provider obligations, evidence preservation, or legal claims. KYC1 review records should be minimized and deleted after review unless retention is necessary for abuse prevention, legal compliance, dispute handling, provider obligations, or legal defense.
 
-## 9. Intellectual Property
+8.9 Users may have rights to access, correct, delete, restrict, object to, or export personal data under applicable law. Users may also have the right to complain to a competent data protection authority.
 
-The Service, including its design, code, interface, branding, text, graphics, structure, documentation, workflows, software components, databases, and other materials, may be protected by copyright, trademark, database rights, trade secret laws, and other intellectual property laws.
+8.10 SilentFlare may require identity verification, including KYC1 where appropriate and proportionate, before fulfilling a data-rights request.
 
-Except as expressly permitted, you may not copy, modify, distribute, sell, lease, sublicense, host, mirror, reverse engineer, exploit, or create derivative works based on any part of the Service without permission.
+8.11 The blog may use technically necessary cookies, local storage, CDN logs, anti-spam tools, security tools, analytics, embedded media, or third-party widgets where disclosed or technically necessary. Non-essential cookies or analytics should be disclosed and, where required, used only with appropriate consent or other lawful basis.
 
-If the Service includes open-source software, the applicable open-source license will govern your use of that software. If there is a conflict between these Terms and an applicable open-source license, the open-source license controls only for the relevant open-source component.
+8.12 No online site is completely secure. Users should avoid submitting unnecessary sensitive data through comments, contact forms, or public channels.
 
-No rights are granted to use the SilentFlare name, logo, branding, domain, visual identity, or project identity without permission.
+## 9. Availability, changes, and third parties
 
-## 10. Third-Party Services
+9.1 SilentFlare will make reasonable efforts to keep the blog reachable, but does not guarantee continuous availability, uptime, performance, indexing, feed stability, or crawler access.
 
-The Service may rely on, integrate with, or link to third-party platforms, hosting providers, infrastructure providers, identity providers, verification providers, analytics services, payment services, APIs, software libraries, content delivery networks, domain providers, email services, security providers, or external websites.
+9.2 Content and features may be released, edited, corrected, renamed, moved, archived, deleted, rate-limited, blocked, or removed.
 
-The Operator is not responsible for third-party services, content, policies, availability, accuracy, security, privacy practices, or legal compliance.
+9.3 SilentFlare may modify routes, feeds, APIs, sitemap files, robots instructions, cache behavior, rate limits, comment systems, domains, repository links, support channels, and anti-abuse rules.
 
-Your use of third-party services may be governed by their own terms, privacy policies, security standards, and legal obligations.
+9.4 Continued access after a change takes effect means acceptance of the change to the extent permitted by law.
 
-The Operator may change, suspend, remove, or replace third-party integrations at any time.
+9.5 SilentFlare may depend on hosting providers, DNS providers, CDN providers, repository providers, email providers, analytics providers, security providers, comment providers, and other third parties. Third-party outages, policy changes, pricing changes, compliance demands, suspensions, or terminations may affect the blog.
 
-## 11. No Professional Advice
+## 10. Donations and payments
 
-Content provided through SilentFlare is for informational, educational, technical, experimental, or personal project purposes only.
+10.1 Ordinary reading, browsing, quoting, and lawful personal access are not sold as a paid service under these terms.
 
-Unless expressly stated otherwise, the Service does not provide legal, financial, investment, tax, medical, cybersecurity, compliance, or other professional advice.
+10.2 SilentFlare may provide voluntary donation, tip, sponsorship, or support links.
 
-You should not rely on the Service as a substitute for professional advice.
+10.3 A donation or voluntary support payment does not purchase uptime, access, editorial influence, private support, content removal, backlink placement, advertising, preferential treatment, KYC1 approval, crawler allowlisting, or exemption from these terms unless SilentFlare expressly agrees in writing.
 
-Any financial, trading, investment, market-related, technical, security-related, or legal-related content is provided for general informational purposes only and does not constitute advice, solicitation, recommendation, legal opinion, financial promotion, or an offer to buy, sell, hold, or use any asset, product, service, or strategy.
+10.4 Donations and voluntary support payments are generally not refundable unless SilentFlare chooses otherwise, the payment processor requires otherwise, or mandatory law requires otherwise.
 
-You are responsible for your own decisions and for obtaining professional advice where appropriate.
+10.5 If mandatory consumer protection law applies to a particular paid transaction, those mandatory rights control only to the extent required by law.
 
-## 12. Privacy, Data Protection and Compliance Data
+## 11. Moderation, blocking, enforcement, and appeals
 
-The Operator may collect and process data necessary to operate, secure, debug, maintain, protect, and improve the Service.
+11.1 SilentFlare may investigate abuse reports, spam, malicious crawling, scraping at abusive scale, provider complaints, security alerts, KYC1 inconsistencies, sanctions signals, controlled-access signals, traffic anomalies, copyright notices, privacy complaints, and suspected violations.
 
-Depending on the feature, this may include:
+11.2 SilentFlare may take immediate action without prior notice where necessary to stop harm, comply with law, satisfy provider requirements, prevent abuse, protect security, preserve evidence, reduce crawler load, or reduce legal risk.
 
-* account information;
-* contact information;
-* usage logs;
-* IP addresses;
-* device information;
-* browser information;
-* session information;
-* security logs;
-* technical diagnostics;
-* submitted content;
-* interaction data;
-* API usage data;
-* administrative logs;
-* verification status;
-* compliance records;
-* risk indicators;
-* timestamps;
-* access records.
+11.3 Enforcement may include blocking traffic, rate-limiting, disabling comments, removing comments, disabling feeds, revoking tokens, blocking IPs or ASNs, blocking countries or regions, requiring KYC1, removing content, preserving evidence, or refusing contact.
 
-Additional identity verification, compliance screening, sanctions screening, fraud prevention, security logging, and access control data may be processed where necessary to comply with applicable law, protect the Service, enforce these Terms, or assess whether a user is eligible to access restricted parts of the Service.
+11.4 SilentFlare may provide notice by email, page notice, repository notice, contact-channel reply, feed notice, website notice, or other reasonable method. SilentFlare may withhold notice where notice would create risk, reveal detection methods, violate law, compromise an investigation, identify a reporter, or enable further abuse.
 
-Where identity verification involves documents, facial verification, liveness checks, proof of address, proof of income, proof of funds, or similar sensitive materials, such processing will be limited to the purposes stated in these Terms and any applicable privacy notice.
+11.5 The user may request review of a block, comment removal, crawler restriction, KYC1 decision, or other enforcement action by contacting the designated channel and including relevant dates, affected URLs, IP addresses, ASNs, crawler user agent, account or comment identifier, explanation, evidence, remediation steps, and requested documents where appropriate.
 
-Unless expressly stated otherwise, the Service does not store original KYC documents or raw biometric verification materials on its own servers. Identity verification may be performed by third-party verification providers, and such providers may process verification data under their own applicable terms, privacy notices, security standards, and legal obligations.
+11.6 SilentFlare may deny appeals that are abusive, incomplete, misleading, repetitive, high-risk, or inconsistent with regional-compliance controls.
 
-The Operator may retain verification results, verification status, audit logs, timestamps, risk indicators, and compliance records only to the extent necessary for lawful compliance, security, fraud prevention, abuse prevention, dispute resolution, and enforcement of these Terms.
+11.7 SilentFlare may permanently refuse interaction if the user violates these terms, fails KYC1, creates unacceptable risk, engages in abuse, provides false information, violates law, causes provider enforcement, or repeatedly evades blocks.
 
-The Operator will make reasonable efforts to protect user data. However, no system is completely secure. You should avoid submitting sensitive information unless the Service specifically requires it and you understand the associated risks.
+## 12. Disclaimers and liability limits
 
-## 13. Disclosure to Authorities and Legal Requests
+12.1 SilentFlare resources are provided on an as-is and as-available basis.
 
-The Operator may disclose user information, verification records, access logs, compliance-related information, security logs, or other relevant records to competent courts, regulators, law enforcement authorities, government agencies, hosting providers, infrastructure providers, verification providers, legal advisors, or other legally authorized parties where required or permitted by applicable law.
+12.2 SilentFlare does not guarantee that the blog will be uninterrupted, error-free, secure, compatible, accurate, complete, current, lawful for every user's jurisdiction, indexed by search engines, accessible from every region, or suitable for every purpose.
 
-Such disclosure may occur in response to:
+12.3 Blog posts, notes, examples, policy drafts, technical suggestions, code snippets, financial comments, legal comments, security comments, health comments, or operational opinions are informational and personal unless expressly stated otherwise.
 
-* valid legal process;
-* court order;
-* subpoena;
-* regulatory request;
-* law enforcement request;
-* sanctions compliance obligation;
-* cybersecurity incident;
-* abuse investigation;
-* fraud prevention need;
-* emergency security necessity;
-* lawful data protection or compliance obligation.
+12.4 SilentFlare does not provide legal, tax, financial, security, compliance, investment, medical, or other professional advice through the blog.
 
-The Operator does not voluntarily sell user identity verification data.
+12.5 The blog may link to or embed third-party websites, files, repositories, media, products, services, or comments. A link or reference does not necessarily mean endorsement, sponsorship, verification, or approval.
 
-The Operator does not intend to disclose original KYC materials or sensitive verification records except where legally required, legally permitted, necessary for verification, necessary for security, necessary for fraud prevention, necessary for compliance, or necessary to protect the Service and its users.
+12.6 To the maximum extent permitted by applicable law, SilentFlare is not liable for indirect, incidental, special, consequential, exemplary, punitive, or similar damages arising from blog access or use.
 
-## 14. Service Availability
+12.7 Where liability cannot be excluded, SilentFlare's liability is limited to the amount paid by the user for the specific affected blog-related transaction, if any, unless mandatory law requires a different result.
 
-The Service is provided on an “as available” basis.
+12.8 Nothing in these terms excludes liability that cannot legally be excluded, including liability for intentional misconduct where applicable, gross negligence where applicable, death or personal injury caused by negligence where applicable, or mandatory consumer rights.
 
-The Operator does not guarantee that the Service will be uninterrupted, secure, error-free, compatible, or available at any specific time or location.
+## 13. Contact rules
 
-The Service may be temporarily or permanently unavailable due to:
+13.1 General blog, correction, attribution, comment, link, crawler, or technical questions should be sent to contact@silentflare.com or the designated contact channel shown on the SilentFlare website or repository.
 
-* maintenance;
-* infrastructure issues;
-* third-party outages;
-* hosting provider restrictions;
-* domain or DNS issues;
-* cyberattacks;
-* abuse prevention;
-* technical failures;
-* data loss;
-* legal or regulatory restrictions;
-* sanctions or compliance review;
-* security incidents;
-* feature discontinuation;
-* force majeure events.
+13.2 Abuse reports should be sent to abuse@silentflare.com and should include the affected URL, IP address, domain, timestamp with timezone, logs, headers, screenshots, comment identifier, crawler user agent, transaction identifier if any, or other evidence.
 
-The Operator may impose usage limits, rate limits, access controls, geographic restrictions, or other technical restrictions at any time.
+13.3 Security reports should be sent to security@silentflare.com and should include reproduction steps, impact, affected endpoint, proof of concept, and suggested remediation. Security researchers should avoid destructive testing, private data access, persistence, lateral movement, social engineering, spam, service degradation, or public disclosure before remediation.
 
-## 15. Experimental Features and Data Risk
+13.4 Privacy requests should be sent to privacy@silentflare.com and should identify the relevant data and the specific right being exercised, such as access, correction, deletion, restriction, objection, or export.
 
-Some parts of the Service may be experimental, unfinished, unstable, or provided for testing purposes.
+13.5 Users should not include passwords, private keys, seed phrases, full payment card numbers, unnecessary identity documents, or unnecessary sensitive data in ordinary messages.
 
-Experimental features may contain bugs, errors, interruptions, incomplete security protections, inaccurate outputs, data loss risks, or unexpected behavior.
+13.6 Emergency reports involving imminent harm, active compromise, severe abuse, child safety, terrorism, credible threats, or major security incidents should be clearly marked as urgent and include immediately actionable evidence.
 
-You should not rely on experimental features for critical, regulated, high-value, safety-sensitive, or production use unless the Operator expressly states that the relevant feature is suitable for such use.
+## 14. Legal review notice
 
-The Operator does not guarantee that experimental features will remain available, become stable, or be maintained.
+14.1 This document is an operational policy draft for a personal blog. It is not legal advice.
 
-## 16. Disclaimer of Warranties
-
-To the fullest extent permitted by law, the Service is provided “as is” and “as available,” without warranties of any kind, whether express, implied, statutory, or otherwise.
-
-The Operator disclaims all warranties, including but not limited to warranties of:
-
-* merchantability;
-* fitness for a particular purpose;
-* non-infringement;
-* accuracy;
-* reliability;
-* availability;
-* security;
-* compatibility;
-* uninterrupted operation;
-* error-free operation;
-* data preservation;
-* compliance with your specific legal or regulatory obligations.
-
-The Operator does not warrant that the Service will meet your requirements or expectations.
-
-## 17. Limitation of Liability
-
-To the fullest extent permitted by law, the Operator shall not be liable for any indirect, incidental, special, consequential, exemplary, or punitive damages, including but not limited to:
-
-* loss of profits;
-* loss of data;
-* loss of goodwill;
-* loss of business opportunities;
-* loss of access;
-* service interruption;
-* system failure;
-* security incident;
-* unauthorized access;
-* content loss;
-* compliance failure caused by your use;
-* third-party service failure.
-
-The Operator’s total liability for any claim arising out of or relating to the Service shall be limited to the amount you paid to use the Service, if any, during the twelve months before the claim arose.
-
-If you use the Service for free, you acknowledge that the Operator’s liability may be limited to the maximum extent permitted by applicable law.
-
-Nothing in these Terms excludes or limits liability where such exclusion or limitation is prohibited by applicable law.
-
-## 18. Indemnification
-
-You agree to indemnify, defend, and hold harmless the Operator from and against any claims, damages, liabilities, losses, costs, expenses, investigations, penalties, and legal fees arising from or related to:
-
-* your use or misuse of the Service;
-* your violation of these Terms;
-* your violation of any law or regulation;
-* your violation of any third-party right;
-* your submitted content;
-* your unauthorized access to or interference with the Service;
-* your attempt to bypass access controls, KYC, sanctions controls, or geographic restrictions;
-* your false, misleading, or fraudulent information;
-* your abuse of APIs, automation systems, accounts, or infrastructure.
-
-## 19. Suspension and Termination
-
-The Operator may suspend, restrict, or terminate your access to the Service at any time if:
-
-* you violate these Terms;
-* your use creates legal, regulatory, operational, security, compliance, sanctions, data protection, or reputational risk;
-* you are located in or associated with a restricted country, territory, region, or network;
-* you fail to complete required identity verification;
-* you provide false or misleading information;
-* continued access may harm the Service, the Operator, other users, or third parties;
-* the Service or relevant feature is discontinued;
-* required by law, court order, regulator, hosting provider, or infrastructure provider.
-
-You may stop using the Service at any time.
-
-Termination does not affect provisions that by their nature should survive, including intellectual property, disclaimers, limitation of liability, indemnification, compliance, data retention, governing law, and dispute-related provisions.
-
-## 20. Changes to These Terms
-
-The Operator may update these Terms from time to time.
-
-When changes are made, the updated Terms will be posted with a revised effective date.
-
-Continued use of the Service after updated Terms become effective means you accept the revised Terms.
-
-If you do not agree to the updated Terms, you must stop using the Service.
-
-## 21. Governing Law
-
-Unless otherwise required by applicable law, these Terms shall be governed by the laws of the Federal Republic of Germany and applicable European Union law, without regard to conflict of law principles.
-
-Where mandatory consumer protection, data protection, or other local laws apply and cannot be waived, those mandatory legal rights remain unaffected.
-
-## 22. Contact
-
-For questions, notices, or concerns regarding these Terms, contact:
-
-**Email:** [contact@silentflare.com](mailto:contact@silentflare.com)
-**Project:** SilentFlare
-**Website:** SilentFlare.com
-
-Legal, regulatory, law enforcement, or compliance-related notices should be clearly marked as such in the subject line or message body.
-
-## 23. Entire Agreement
-
-These Terms constitute the entire agreement between you and the Operator regarding the Service and supersede any prior or contemporaneous agreements concerning the Service.
-
-If any provision of these Terms is found to be invalid, unlawful, or unenforceable, the remaining provisions will remain in effect.
-
-Failure to enforce any provision of these Terms does not constitute a waiver of that provision.
+14.2 Before relying on it for identity verification, controlled-access blocking, German/EU compliance, GDPR compliance, DSA compliance, ePrivacy compliance, sanctions compliance, or commercial activity, SilentFlare should have it reviewed by a qualified lawyer.
